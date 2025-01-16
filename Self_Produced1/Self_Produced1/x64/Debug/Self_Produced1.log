@@ -1,0 +1,19 @@
+﻿  camera.cpp
+C:\Users\student\Desktop\新しいフォルダー\Self_Produced1\camera.h(16,9): error C3646: 'Position': 不明なオーバーライド指定子です
+  (ソース ファイル 'camera.cpp' をコンパイルしています)
+  
+C:\Users\student\Desktop\新しいフォルダー\Self_Produced1\camera.h(16,2): error C4430: 型指定子がありません - int と仮定しました。メモ: C++ は int を既定値としてサポートしていません
+  (ソース ファイル 'camera.cpp' をコンパイルしています)
+  
+C:\Users\student\Desktop\新しいフォルダー\Self_Produced1\camera.h(18,9): error C3646: 'Target': 不明なオーバーライド指定子です
+  (ソース ファイル 'camera.cpp' をコンパイルしています)
+  
+C:\Users\student\Desktop\新しいフォルダー\Self_Produced1\camera.h(18,2): error C4430: 型指定子がありません - int と仮定しました。メモ: C++ は int を既定値としてサポートしていません
+  (ソース ファイル 'camera.cpp' をコンパイルしています)
+  
+C:\Users\student\Desktop\新しいフォルダー\Self_Produced1\camera.cpp(6,2): error C2065: 'Position': 定義されていない識別子です。
+C:\Users\student\Desktop\新しいフォルダー\Self_Produced1\camera.cpp(14,36): error C2065: 'Position': 定義されていない識別子です。
+C:\Users\student\Desktop\新しいフォルダー\Self_Produced1\camera.cpp(14,46): error C2065: 'Target': 定義されていない識別子です。
+  main.cpp
+  map.cpp
+  コードを生成中...
